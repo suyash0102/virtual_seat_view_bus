@@ -9,3 +9,5 @@ This Repo Contains Virtual Seat View of Bus. You can customize according to your
 
 If You like my work please dont forget to give it a star.
 
+License
+Distributed under the MIT License. See LICENSE for more information.
